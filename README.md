@@ -13,14 +13,20 @@ This project is a simple string calculator implemented in **Ruby**, following **
 - Lists **all** negative numbers in the error message
 
 ---
+## How to Run Locally and Test All Test Case
 
-## **How to Run Locally and Test all the test cases**
+### Prerequisites
 
-```bash
-git clone https://github.com/saroj-sahu-developer/string_calculator
-cd string_calculator
-bundle install
-bundle exec rspec
+Make sure the following are installed on your system:
+
+**Ruby**, 
+**Bundler** (for managing project dependencies)
+
+
+- git clone https://github.com/saroj-sahu-developer/string_calculator
+- cd string_calculator
+- bundle install
+- bundle exec rspec
 
 ---
 
